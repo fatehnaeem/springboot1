@@ -42,5 +42,8 @@ It demonstrates the basic functionality of a Spring Boot application, including 
 - **Email**: mnaeem1@stu.vistula.edu.pl
 
 ## 🖼 Output
-![localhost_8080 - Brave 5_13_2025 12_46_54 PM](https://github.com/user-attachments/assets/3e1a8c9b-5a2b-4fba-b4ab-39764a5e0d53)
+![localhost_8080 - Brave 5_13_2025 12_47_04 PM](https://github.com/user-attachments/assets/895fcc1a-64f4-4557-a2d6-2492796bdef7)
+![localhost_8080 - Brave 5_13_2025 12_46_54 PM](https://github.com/user-attachments/assets/7ddd2dec-45ee-4961-9c5e-f912355e5a83)
+
+
 
